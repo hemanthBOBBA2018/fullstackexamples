@@ -1,6 +1,4 @@
 
-Collections
-
 Database
 
 create and deploy a highly scalable 
