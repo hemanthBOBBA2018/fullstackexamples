@@ -1,0 +1,28 @@
+Employee 
+{
+    "_id" : ObjectId("5b38df3e1ccc961bc8e89591"),
+    "firstname" : "Mahesh",
+    "lastname" : "Goud",
+    "role" : "Employee",
+    "username" : "mahesh",
+    "password" : "mahesh" 
+}
+
+Hardware
+{
+    "_id" : ObjectId("5b38e0801ccc961bc8e89592"),
+    "name" : "KeyBoard",
+    "brand" : "Logitech",
+    "modelno" : "675756",
+    "serialno" : "324343",
+    "cost" : 223,
+    "purchaseddate" : "2012-06-30"
+}
+
+{
+    "_id" : ObjectId("5b38e4eeba76c73a201c2c6c"),
+    "empid" : "5b38df3e1ccc961bc8e89591",
+    "hardwareid" : "5b3765270f2c3baedcaa6dca",
+    "borroweddate" : "10-10-2012",
+    "returneddate" : "10-10-2012" 
+}

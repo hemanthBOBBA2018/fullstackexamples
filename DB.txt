@@ -1,0 +1,32 @@
+MYSQL---------------------->RDBMS
+
+Mongo---------------------->NOSQL
+open-source
+document database
+BSON Documents 
+
+Collections
+
+Database
+
+create and deploy a highly scalable 
+performance-oriented database.
+
+MongoDB is a cross-platform
+
+Collections do not enforce a schema.
+
+Documents within a collection can have different fields.
+
+Database
+	Collection
+		{fname:rajesh,lname:age:21,phoneno:1000000}
+
+		{fname:rajesh,lname:age:21}
+		
+		{fname:rajesh}
+
+
+
+
+
