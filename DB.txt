@@ -1,8 +1,4 @@
 
-
-
-Database
-	Collection
 		{fname:rajesh,lname:age:21,phoneno:1000000}
 
 		{fname:rajesh,lname:age:21}
