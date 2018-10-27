@@ -1,9 +1,3 @@
-MYSQL---------------------->RDBMS
-
-Mongo---------------------->NOSQL
-open-source
-document database
-BSON Documents 
 
 Collections
 
