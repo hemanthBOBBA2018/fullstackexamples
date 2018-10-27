@@ -1,8 +1,5 @@
 
 
-Collections do not enforce a schema.
-
-Documents within a collection can have different fields.
 
 Database
 	Collection
