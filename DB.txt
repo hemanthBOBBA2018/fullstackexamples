@@ -1,10 +1,4 @@
 
-Database
-
-create and deploy a highly scalable 
-performance-oriented database.
-
-MongoDB is a cross-platform
 
 Collections do not enforce a schema.
 
